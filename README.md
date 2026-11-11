@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=GENDESU&fontSize=76&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Content%20Automation%20%C2%B7%20AI%20Tools%20%C2%B7%20Short-Form%20Video&descAlignY=58&descSize=18" width="100%" alt="GENDESU"/>
+<img src="assets/header.svg" width="100%" alt="GENDESU - freelance developer and creator"/>
 
 <a href="https://nexusmediaph.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=680&height=40&lines=1.7M%2B+followers+across+3+platforms;Freelance+developer+%26+creator;I+build+content+automation+pipelines;AI+tools+%C2%B7+Python+%C2%B7+JavaScript;Open+to+freelance+work" alt="Typing intro"/></a>
 
