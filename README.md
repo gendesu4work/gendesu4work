@@ -1,24 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=140&section=header&text=Gendesu&fontSize=56&fontColor=ffffff&desc=Content%20Automation%20%C2%B7%20AI%20Tools%20%C2%B7%20Short-Form%20Video&descSize=16&descAlignY=70" width="100%" alt="Gendesu"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=GENDESU&fontSize=76&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Content%20Automation%20%C2%B7%20AI%20Tools%20%C2%B7%20Short-Form%20Video&descAlignY=58&descSize=18" width="100%" alt="GENDESU"/>
 
-**Freelance developer and creator. I build automation that turns ideas into published content, and I run channels with 1.7M+ followers.**
+<a href="https://nexusmediaph.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=680&height=40&lines=1.7M%2B+followers+across+3+platforms;Freelance+developer+%26+creator;I+build+content+automation+pipelines;AI+tools+%C2%B7+Python+%C2%B7+JavaScript;Open+to+freelance+work" alt="Typing intro"/></a>
 
-<a href="https://nexusmediaph.com"><img src="https://img.shields.io/badge/Hire%20me-nexusmediaph.com-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hire me"/></a>
+<br/>
+
+<a href="https://nexusmediaph.com"><img src="https://img.shields.io/badge/Hire%20me-nexusmediaph.com-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Hire me"/></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20freelance%20work-2ea043?style=for-the-badge" alt="Open to work"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=60&section=header&animation=fadeIn" width="100%" alt=""/>
 
 ## Services
 
-| | |
-|---|---|
-| **Content automation** | End-to-end pipelines: script, voiceover, visuals, captions, assembly and scheduled posting across YouTube, TikTok, Instagram and Facebook. |
-| **AI-assisted tools** | Custom assistants and workflows built with Python, JavaScript and LLM APIs (Claude). |
-| **Short-form video and animation** | Faceless, story-driven Shorts, Reels and TikToks built for retention and monetization. |
-| **Channel growth** | Hooks, pacing, posting cadence and analytics-minded iteration, learned from running my own channels. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Content automation
+Script, voiceover, visuals, captions, assembly and scheduled posting across YouTube, TikTok, Instagram and Facebook.
+
+</td>
+<td width="50%" valign="top">
+
+### AI-assisted tools
+Custom assistants and workflows built with Python, JavaScript and LLM APIs (Claude).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Short-form video and animation
+Faceless, story-driven Shorts, Reels and TikToks built for retention and monetization.
+
+</td>
+<td width="50%" valign="top">
+
+### Channel growth
+Hooks, pacing, posting cadence and analytics-minded iteration, learned from running my own channels.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=60&section=header&animation=fadeIn" width="100%" alt=""/>
 
 ## Track record
 
@@ -30,6 +58,8 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=60&section=header&animation=fadeIn" width="100%" alt=""/>
+
 ## Selected projects
 
 | Project | Description | Stack |
@@ -40,15 +70,23 @@
 
 ## Tech
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,py,html,css,git,vscode&theme=dark" alt="Tech icons"/>
+
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-## GitHub
+</div>
+
+## Contribution snake
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gendesu4work/gendesu4work/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/gendesu4work/gendesu4work/output/snake.svg" alt="Contribution snake"/>
+</picture>
 
 ![Followers](https://img.shields.io/github/followers/gendesu4work?style=flat-square&logo=github&label=followers)
 ![Repos](https://img.shields.io/badge/public%20repos-3-blue?style=flat-square&logo=github)
@@ -60,6 +98,4 @@
 
 Need a content pipeline, an automation tool, or a short-form video system built? Message me through **[nexusmediaph.com](https://nexusmediaph.com)**.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=60&section=footer" width="100%" alt=""/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling" width="100%" alt=""/>
